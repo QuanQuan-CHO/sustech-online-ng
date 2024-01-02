@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-5f7e3684","path":"/canteen/","title":"🍜饭堂服务","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1704035279000,"contributors":[{"name":"Bill","email":"704317542@qq.com","commits":3},{"name":"liziwl","email":"leezisy@gmail.com","commits":1}]},"filePathRelative":"canteen/README.md"}');export{e as data};
